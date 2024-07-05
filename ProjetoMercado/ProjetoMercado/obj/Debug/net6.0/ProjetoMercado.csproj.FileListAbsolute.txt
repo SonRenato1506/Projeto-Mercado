@@ -1,0 +1,15 @@
+E:\LP2\ProjetoMercado\ProjetoMercado\obj\Debug\net6.0\ProjetoMercado.csproj.AssemblyReference.cache
+E:\LP2\ProjetoMercado\ProjetoMercado\obj\Debug\net6.0\ProjetoMercado.GeneratedMSBuildEditorConfig.editorconfig
+E:\LP2\ProjetoMercado\ProjetoMercado\obj\Debug\net6.0\ProjetoMercado.AssemblyInfoInputs.cache
+E:\LP2\ProjetoMercado\ProjetoMercado\obj\Debug\net6.0\ProjetoMercado.AssemblyInfo.cs
+E:\LP2\ProjetoMercado\ProjetoMercado\obj\Debug\net6.0\ProjetoMercado.csproj.CoreCompileInputs.cache
+E:\LP2\ProjetoMercado\ProjetoMercado\bin\Debug\net6.0\ProjetoMercado.exe
+E:\LP2\ProjetoMercado\ProjetoMercado\bin\Debug\net6.0\ProjetoMercado.deps.json
+E:\LP2\ProjetoMercado\ProjetoMercado\bin\Debug\net6.0\ProjetoMercado.runtimeconfig.json
+E:\LP2\ProjetoMercado\ProjetoMercado\bin\Debug\net6.0\ProjetoMercado.dll
+E:\LP2\ProjetoMercado\ProjetoMercado\bin\Debug\net6.0\ProjetoMercado.pdb
+E:\LP2\ProjetoMercado\ProjetoMercado\obj\Debug\net6.0\ProjetoMercado.dll
+E:\LP2\ProjetoMercado\ProjetoMercado\obj\Debug\net6.0\refint\ProjetoMercado.dll
+E:\LP2\ProjetoMercado\ProjetoMercado\obj\Debug\net6.0\ProjetoMercado.pdb
+E:\LP2\ProjetoMercado\ProjetoMercado\obj\Debug\net6.0\ProjetoMercado.genruntimeconfig.cache
+E:\LP2\ProjetoMercado\ProjetoMercado\obj\Debug\net6.0\ref\ProjetoMercado.dll
